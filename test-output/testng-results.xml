@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2014-11-23T10:24:31Z" finished-at="2014-11-23T10:24:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2014-11-23T10:24:31Z" finished-at="2014-11-23T10:24:31Z">
+      <class name="testsPackage.testClass">
+        <test-method status="PASS" signature="should()[pri:0, instance:testsPackage.testClass@155220e]" name="should" duration-ms="31" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- should -->
+        <test-method status="PASS" signature="shouldCheckTheLastContact()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckTheLastContact" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckTheLastContact -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfCPUAttackers()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfCPUAttackers" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfCPUAttackers -->
+        <test-method status="PASS" signature="shouldCheckTheGoalsForCPUPlayer()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckTheGoalsForCPUPlayer" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckTheGoalsForCPUPlayer -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfCPUDefenders()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfCPUDefenders" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfCPUDefenders -->
+        <test-method status="PASS" signature="shouldCheckTheGap()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckTheGap" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckTheGap -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfMidFielder()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfMidFielder" duration-ms="16" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfMidFielder -->
+        <test-method status="PASS" signature="shouldCheckTheGoalsForPlayer()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckTheGoalsForPlayer" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckTheGoalsForPlayer -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfDefenders()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfDefenders" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfDefenders -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfAttackers()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfAttackers" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfAttackers -->
+        <test-method status="PASS" signature="shouldCheckThePositionOfCPUMidFielder()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldCheckThePositionOfCPUMidFielder" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldCheckThePositionOfCPUMidFielder -->
+        <test-method status="PASS" signature="shouldGamebeOn()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldGamebeOn" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGamebeOn -->
+        <test-method status="PASS" signature="shouldReturnWidthOfTheFrame()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldReturnWidthOfTheFrame" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnWidthOfTheFrame -->
+        <test-method status="PASS" signature="shouldReturnHeightOfTheFrame()[pri:0, instance:testsPackage.testClass@155220e]" name="shouldReturnHeightOfTheFrame" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldReturnHeightOfTheFrame -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testsPackage.testClass@155220e]" name="testLogin" duration-ms="0" started-at="2014-11-23T15:54:31Z" finished-at="2014-11-23T15:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- testsPackage.testClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
